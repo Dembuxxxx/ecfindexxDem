@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2? family = Advent + Pro & family = Dancing + Script: wght @ 500 & display = swap');
+
+body {
+  font-family: 'Advent Pro', sans-serif;
+  
+    padding: 30px 10px;;
+    Margin: -10px;
+    background-color:antiquewhite
+}
+
+
+
+ul {
+  margin:0;
+  padding: 0;
+
+}
+
+li {
+
+list-style-type: none;
+
+
+
+
+}
+
+h2 {
+ text-transform: uppercase;
+ text-align: left;
+ padding-top: 30px;
+ font-size: 2em;
+
+
+}
+
+a {
+ text-decoration: none;
+ color: black;
+
+
+
+}
+
+nav {
+ overflow: hidden;
+ background-color:rgb(243, 227, 227);
+ position: fixed;
+ width: 100%;
+opacity: 0.9;
+padding: 20px;
+
+}
+
+header li {
+    float: right;
+    font-size: 1.2em;
+    font-family: 'dancing Script, cursive'
+}
+
+ header li a {
+   text-decoration: none;
+   display: block;
+   text-align: center;
+   padding: 18px 16px;
+   color:black;
+   font-family:'dancing script', cursive;
+   
+
+ }
+
+ #logo {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    float: left;
+ }
+/* --------------------Image Principale----------*/
+ #ImagePrincipale {
+
+    padding-top: 60px;
+    background-image: url(./MagePrincipal.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 799px;
+    background-attachment: fixed;
+    
+   }
+
+
+
+h1 {
+        font-weight: bolder;
+        text-align:center;
+        color:black;
+        font-size: 6em;
+        margin-top: 90px;
+        font-family:'dancing script', cursive;
+    }
+
+h2{
+
+font-weight:lighter;
+text-align: center;
+font-size: 3em;
+font-family:'dancing Script, cursive';
+margin-top: -20px;
+color:black;
+padding-top: 60px;
+
+
+}
+
+h3 {
+ text-align: justify;
+ color: black;
+ font-size: 3em;
+ text-shadow: 1x 3px 2px black;
+
+}
+
+h4{
+
+font-family: 'dancing Script, cursive';
+text-align: left;
+margin: 10px;
+text-shadow: 1x 3px 2px black;
+
+}
+
+.ImagesPrestations h3 {
+    font-family: 'dancing Script', cursive;
+    text-align:justify;
+    font-size: 1.8em;
+    margin: 15px;
+    font-weight: 300;
+}
+
+.ImagesPrestations img {
+
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
+    margin-top: 50px;
+    
+}
+
+p {
+ 
+ font-family: 'dancing Script', cursive;
+ margin: auto;
+ padding-top:15px;
+ font-weight: bold;
+ text-align: center;
+ font-style: italic;
+ font-size: 1em;
+}
+
+.ImagesPrestations img:hover {
+    opacity: 0.5;
+    transform: scale(1.05);
+    transition: 0.6s ease-in-out;
+
+}
+
+navbar-brand {
+  
+    max-height: 40px;
+    text-align: center;
+}
+
+img {
+
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
+    margin-top: 50px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
